@@ -1,0 +1,5 @@
+﻿  mainReducer1.cpp
+  Trie.cpp
+  Generating Code...
+C:\Users\moira\source\repos\Phase4\ReducerSocket\mainReducer1.cpp(26): error C4700: uninitialized local variable 'trieHead1' used
+C:\Users\moira\source\repos\Phase4\ReducerSocket\mainReducer1.cpp(29): error C4700: uninitialized local variable 'strPtr1' used

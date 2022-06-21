@@ -1,0 +1,13 @@
+﻿  Workflow.cpp
+C:\Users\moira\source\repos\Phase4\repo\Sockets.hpp(274,17): error C2065: 'StaticLogger': undeclared identifier
+C:\Users\moira\source\repos\Phase4\repo\Sockets.hpp(239,14): message : This diagnostic occurred in the compiler generated function 'bool Sockets::SocketListener::start(CallObj &)'
+C:\Users\moira\source\repos\Phase4\repo\Sockets.hpp(274,17): error C3861: 'StaticLogger': identifier not found
+C:\Users\moira\source\repos\Phase4\repo\Sockets.hpp(239,14): message : This diagnostic occurred in the compiler generated function 'bool Sockets::SocketListener::start(CallObj &)'
+C:\Users\moira\source\repos\Phase4\repo\Sockets.hpp(296,17): error C2065: 'StaticLogger': undeclared identifier
+C:\Users\moira\source\repos\Phase4\repo\Sockets.hpp(239,14): message : This diagnostic occurred in the compiler generated function 'bool Sockets::SocketListener::start(CallObj &)'
+C:\Users\moira\source\repos\Phase4\repo\Sockets.hpp(296,17): error C3861: 'StaticLogger': identifier not found
+C:\Users\moira\source\repos\Phase4\repo\Sockets.hpp(239,14): message : This diagnostic occurred in the compiler generated function 'bool Sockets::SocketListener::start(CallObj &)'
+C:\Users\moira\source\repos\Phase4\repo\Workflow.cpp(51,1): warning C4312: 'type cast': conversion from 'int' to 'char *' of greater size
+C:\Users\moira\source\repos\Phase4\repo\Workflow.cpp(71,1): warning C4312: 'type cast': conversion from 'uint32_t' to 'char *' of greater size
+C:\Users\moira\source\repos\Phase4\repo\Workflow.cpp(130,5): warning C4312: 'type cast': conversion from 'uint32_t' to 'char *' of greater size
+C:\Users\moira\source\repos\Phase4\repo\Workflow.cpp(155,5): warning C4312: 'type cast': conversion from 'uint32_t' to 'char *' of greater size
